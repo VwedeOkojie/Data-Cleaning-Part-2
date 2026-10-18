@@ -1,7 +1,7 @@
 # 🧹 Data-Cleaning Practice Part 2
 Practice data cleaning with this dataset
 
-<img width="500" height="500" alt="Excel (8)" src="https://github.com/user-attachments/assets/56ef969f-634a-46fe-8f85-5f2d782249af" />
+<img width="300" height="300" alt="Excel (8)" src="https://github.com/user-attachments/assets/56ef969f-634a-46fe-8f85-5f2d782249af" />
 
 
 ## 📁 Project Description
@@ -23,7 +23,7 @@ This project demonstrates a real-world data cleaning exercise. It showcases the 
 
 ## Before & After
 
-<img width="1918" height="691" alt="image" src="https://github.com/user-attachments/assets/5018d52b-ad14-43db-ae45-f9cf35ff76b5" />
+<img width="755" height="227" alt="image" src="https://github.com/user-attachments/assets/130e2eb5-66f8-482e-a044-4a48f544f74d" />
 
 
 <img width="1902" height="814" alt="image" src="https://github.com/user-attachments/assets/2abcfc04-dd90-4642-9f66-3cb3f4e8b9e0" />
