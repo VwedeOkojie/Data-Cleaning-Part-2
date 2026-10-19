@@ -26,7 +26,7 @@ This project demonstrates a real-world data cleaning exercise. It showcases the 
 <img width="755" height="227" alt="image" src="https://github.com/user-attachments/assets/130e2eb5-66f8-482e-a044-4a48f544f74d" />
 
 
-<img width="1902" height="814" alt="image" src="https://github.com/user-attachments/assets/2abcfc04-dd90-4642-9f66-3cb3f4e8b9e0" />
+<img width="425" height="627" alt="image" src="https://github.com/user-attachments/assets/a92a9096-f96e-42a8-b7c6-506ed455b272" />
 
 
 
@@ -47,11 +47,6 @@ This project demonstrates a real-world data cleaning exercise. It showcases the 
 
 4. **SQL - PG Admin**
   - Use the first block of code in  `SQL Script` to create a table called dirty_table
-  - Right click on the dirty_table you just created
-  - Click on import and export data
-    <img width="213" height="597" alt="image" src="https://github.com/user-attachments/assets/1962e72c-5665-4638-b516-c5d9c79d3d44" />
-  - Choose your filename by clicking on folder icon, then Ok
-    <img width="877" height="685" alt="image" src="https://github.com/user-attachments/assets/5d457417-d225-4b2d-ba0f-2be2df22af29" />
 
 
 5. **Clean the data**  
@@ -75,7 +70,7 @@ Building a solid portfolio project for aspiring data analysts
 - [LICENCE](https://github.com/VwedeOkojie/Data-Cleaning-Practice/blob/main/LICENSE) - Permission
 - [README.md](https://github.com/VwedeOkojie/Data-Cleaning-Practice/blob/main/README.md) - Project overview and instructions `You are here`
 - [SQL Script](https://github.com/VwedeOkojie/Data-Cleaning-Practice/blob/main/SQL%20Script) - Postgresql
-- [clean_data.csv](https://github.com/VwedeOkojie/Data-Cleaning-Practice/blob/main/clean_data.csv) - Folder containing clean dataset
+- [clean_table.csv](https://github.com/VwedeOkojie/Data-Cleaning-Practice/blob/main/clean_data.csv) - Folder containing clean dataset
 - [dirty_data.csv](https://github.com/VwedeOkojie/Data-Cleaning-Practice/blob/main/dirty_data.csv) - Folder containing dirty dataset
 
 
