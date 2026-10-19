@@ -11,3 +11,14 @@ VALUES
 ('CA-2011-149020', 'Office Supplies | Furniture', '5.98 | 81.94'),
 ('CA-2011-131905', 'Office Supplies | Technology | Technology', '9.2 | 42.018 | 42.04'),
 ('CA-2011-127614', 'Accessories | Tables | Binders', '234.45 | 1256.2274 | 17.463');
+
+-- Create clean_table from dirty_table
+CREATE TABLE clean_table AS
+WITH cte AS (
+    SELECT
+        order_id,
+    	unnest(string_to_array(category, ' | ')) AS category,
+        unnest(string_to_array(amount, ' | ')) AS amount
+FROM dirty_data
+)
+SELECT * FROM cte;
