@@ -5,7 +5,7 @@ Practice data cleaning with this dataset
 
 
 ## 📁 Project Description
-This project demonstrates a real-world data cleaning exercise. It showcases the transformation of a messy dataset (`dirtydata.csv`) into a clean, analysis-ready dataset (`cleandata.xlsx`). The objective of this project is to illustrate essential data cleaning techniques used by data analysts to prepare data for accurate insights and decision-making.
+This project demonstrates a real-world data cleaning exercise. It showcases the transformation of a messy dataset (`dirtydata.csv`) into a clean, analysis-ready dataset (`clean_table.csv`). The objective of this project is to illustrate essential data cleaning techniques used by data analysts to prepare data for accurate insights and decision-making.
 
 ##  ⚙️ Technologies Used
 * Excel
